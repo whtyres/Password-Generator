@@ -10,9 +10,9 @@ I was required to create a password generator using Javascript in which the user
 
 ## Website
 
-Github Repository: https://github.com/jljohnson1454/password-generator
+Github Repository: https://github.com/whtyres/password-generator 
 
-Live Website: https://jljohnson1454.github.io/password-generator/
+Live Website: https://whtyres.github.io/password-generator/
 
 ## SCREENSHOT
-![screenshot](//Dowloads/password.png)
+![password](https://user-images.githubusercontent.com/95249023/149821009-edb32aa8-e1d0-4636-adc5-5d5a2f00bf92.png)
