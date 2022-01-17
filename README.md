@@ -15,4 +15,4 @@ Github Repository: https://github.com/jljohnson1454/password-generator
 Live Website: https://jljohnson1454.github.io/password-generator/
 
 ## SCREENSHOT
-![screenshot](C:/Users/whtyr/Downloads/password)
+![screenshot](/Develop/Screenshot.png)
